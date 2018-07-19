@@ -14,6 +14,6 @@ public class BoxRotate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(new Vector3(5, 30, 40), 1);
+        transform.Rotate(new Vector3(10, 30, 40), 10);
     }
 }
